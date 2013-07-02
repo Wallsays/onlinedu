@@ -1,6 +1,6 @@
 OnlineStudy
 =========
-Community driven list of courses, open universities, free books and all that relate to  education.
+The list of different university courses, programming technologie studing, free books and all that relate to online education.
 
 ## Programming technologies
 - [TreeHouse](http://teamtreehouse.com/) - Learn to build websites, create iPhone and Android apps, code with Ruby on Rails and PHP, or start a business.
@@ -13,9 +13,18 @@ Community driven list of courses, open universities, free books and all that rel
 - [Tutsplus](https://tutsplus.com/) - A huge library of educational content to help you learn (Web Development, Graphic Design, Motion Graphics etc)
 - [Peepcode](https://peepcode.com/) - Video tutorials for professional web developers and designers
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-- [Android App Develop by Google](http://developer.android.com/training/index.html) 
 - [LearnStreet](http://www.learnstreet.com/) - Start learning the fundamentals in our JavaScript, Ruby and Python courses
 - [hasbrains](http://hasbrains.ru/) - Screencasts about Ruby, Android, Autocad, Java, Rails, Vim, Javascript, Linux
+
+#### Java
+- [java2s](http://www.java2s.com/) - Programming tutorials and source code examples
+- [Wicket Tutorial](http://tomaszdziurko.pl/2011/01/wicket-tutorial-part-1-setting-up-project-with-spring-3-jpa-2-and-mysql/) - Wicket Tutorial with Spring 3, JPA 2 and MySQL
+- [${coreservlets.com}](http://www.coreservlets.com/) - J2EE training
+- [Comparing JVM Web Frameworks](http://www.slideshare.net/mraible/comparing-jvm-web-frameworks#btnNext) - Devoxx 2010
+
+####Android
+- [Android App Develop by Google](http://developer.android.com/training/index.html) 
+- [Android Development Tutorial](http://www.vogella.com/articles/Android/article.html) - Based on Android 4.2 
 
 ## Universities Courses
 - [Coursera](https://www.coursera.org/) - Take the world's best courses, online, for free.
@@ -45,6 +54,9 @@ Community driven list of courses, open universities, free books and all that rel
 - [oDesk](http://www.oDesk.com/)
 - [Elance](https://www.elance.com/)
 - [Freelancer](http://www.freelancer.com/)
+
+#### Certification
+- [jchq](http://www.jchq.net/mockexams/exam1.htm) - Java Programmer Certification Mock Exam No 1 
 
 ##Other
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
