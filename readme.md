@@ -1,4 +1,4 @@
-OnlineStudy
+Onlinedu
 =========
 The list of different university courses, programming technologie studing, free books and all that relate to online education.
 
