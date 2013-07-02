@@ -1,6 +1,6 @@
-OnlineStudy
+Onlinedu
 =========
-The list of different university courses, programming technologie studing, free books and all that relate to online education.
+A list of online education resources I collected over time such as university courses, programming technologies studing, free books and all that relate to online education.
 
 ## Programming technologies
 - [TreeHouse](http://teamtreehouse.com/) - Learn to build websites, create iPhone and Android apps, code with Ruby on Rails and PHP, or start a business.
