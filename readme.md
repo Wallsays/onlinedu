@@ -1,4 +1,4 @@
-Onlinedu
+OnlineStudy
 =========
 The list of different university courses, programming technologie studing, free books and all that relate to online education.
 
@@ -8,6 +8,7 @@ The list of different university courses, programming technologie studing, free 
 - [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free. Ruby, Python, JS, jQuery, PHP, Web (HTML + CSS), different API's steb-by-step tutorials
 - [Pluralsight](http://www.pluralsight.com/) - Hardcore developer training
 - [Lynda](http://www.lynda.com/) - Learn software, business, and creative skills
+- [Udemy](https://www.udemy.com/) - Start Learning from the World's Top Instructor
 - [TheCodePlayer](http://thecodeplayer.com/) - Learn HTML5, CSS3, Javascript and more...
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn) - Learn how to -make websites
 - [Tutsplus](https://tutsplus.com/) - A huge library of educational content to help you learn (Web Development, Graphic Design, Motion Graphics etc)
@@ -37,6 +38,7 @@ The list of different university courses, programming technologie studing, free 
 - [UniverTV](http://univertv.ru/)
 
 ## Online programming
+- [Compilr](https://compilr.com/) - An online development environment for programming which supports C#, C++, XNA, Ruby, PHP, Python, HTML, JavaScript, Node.js, Fortran, Visual Basic, Java and more
 - [Repl.It](http://repl.it/) - Ruby, Python, Javascript, CoffeeScrip, Scheme, Brainfuck, qBasic and many others languages
 - [Rubular](http://rubular.com/) - A Ruby regular expression editor
 - [Koding](https://koding.com/) - Real software development in the browser with a real VM and a real Terminal and free for everyone
@@ -62,5 +64,6 @@ The list of different university courses, programming technologie studing, free 
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
 - [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
+- [StackOverflow](http://stackoverflow.com/) -  Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
 - [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
