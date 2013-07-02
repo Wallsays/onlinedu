@@ -4,46 +4,51 @@ Community driven list of courses, open universities, free books and all that rel
 
 ## Programming technologies
 - [TreeHouse](http://teamtreehouse.com/) - Learn to build websites, create iPhone and Android apps, code with Ruby on Rails and PHP, or start a business.
-- [Codeschool](http://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.
+- [Codeschool](http://www.codeschool.com/) - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.Ruby, RoR, Rspec, JS, Backbone.js, Node.js, jQuery, HTML5, CSS3, iOS
 - [Codecademy](http://www.codecademy.com/) - Learn to code interactively, for free. Ruby, Python, JS, jQuery, PHP, Web (HTML + CSS), different API's steb-by-step tutorials
-- [Tutsplus](https://tutsplus.com/)
-- [Pluralsight](http://www.pluralsight.com/)
-- [hasbrains](http://hasbrains.ru/)
-- [Lynda](http://www.lynda.com/)
+- [Pluralsight](http://www.pluralsight.com/) - Hardcore developer training
+- [Lynda](http://www.lynda.com/) - Learn software, business, and creative skills
 - [TheCodePlayer](http://thecodeplayer.com/) - Learn HTML5, CSS3, Javascript and more...
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn) - Learn how to make websites
-- [Peepcode](https://peepcode.com/) 
-- [learnGitBranching](http://pcottle.github.io/learnGitBranching/)
-- [Android Develop by Google](http://developer.android.com/training/index.html) 
-- [LearnStreet](http://www.learnstreet.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn) - Learn how to -make websites
+- [Tutsplus](https://tutsplus.com/) - A huge library of educational content to help you learn (Web Development, Graphic Design, Motion Graphics etc)
+- [Peepcode](https://peepcode.com/) - Video tutorials for professional web developers and designers
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+- [Android App Develop by Google](http://developer.android.com/training/index.html) 
+- [LearnStreet](http://www.learnstreet.com/) - Start learning the fundamentals in our JavaScript, Ruby and Python courses
+- [hasbrains](http://hasbrains.ru/) - Screencasts about Ruby, Android, Autocad, Java, Rails, Vim, Javascript, Linux
 
 ## Universities Courses
-- [Coursera](https://www.coursera.org/) 
-- [edX](https://www.edx.org/)
+- [Coursera](https://www.coursera.org/) - Take the world's best courses, online, for free.
+- [edX](https://www.edx.org/) - Take greate courses from the world's best universities.
 - [Udacity](https://www.udacity.com/)
-- [OnlineCourses](http://www.onlinecourses.com/)
-- [Intuit](http://www.intuit.ru/) 
-- [UniverTV](http://univertv.ru/)
-- [KhanAcademy](https://www.khanacademy.org/) 
+- [OnlineCourses](http://www.onlinecourses.com/) - Over 500 courses from the world's leading universities
+- [KhanAcademy](https://www.khanacademy.org/) - Learn almost anything for free
 - [Google Code University](https://developers.google.com/university/courses) 
+- [Intuit](http://www.intuit.ru/) - Бесплатное дистанционное обучение в Национальном Открытом Университете «ИНТУИТ»
+- [UniverTV](http://univertv.ru/)
 
 ## Online programming
-- [Repl.It](http://repl.it/) 
-- [Rubular](http://rubular.com/) - a Ruby regular expression editor
-- [Koding](https://koding.com/) 
-
-## Math trainee
-- [ProjectEuler](http://projecteuler.net/problems)
+- [Repl.It](http://repl.it/) - Ruby, Python, Javascript, CoffeeScrip, Scheme, Brainfuck, qBasic and many others languages
+- [Rubular](http://rubular.com/) - A Ruby regular expression editor
+- [Koding](https://koding.com/) - Real software development in the browser with a real VM and a real Terminal and free for everyone
 
 ##Misc
-- [FightCode](http://fightcodegame.com/) - robots figths on JS
+- [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
+- [ProjectEuler](http://projecteuler.net/problems) - Math trainee
 
 #### Sport programming
+- [Top Coder](http://www.topcoder.com/)
 - [ACM](http://www.acm.org/)
 - [Codeforces](http://codeforces.ru/)
 
+#### Freelance (test your skills)
+- [oDesk](http://www.oDesk.com/)
+- [Elance](https://www.elance.com/)
+- [Freelancer](http://www.freelancer.com/)
+
 ##Other
-- [CoderBits](https://coderbits.com/dddenis) - Pretty stats
+- [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
+- [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
-- [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time.
+- [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
