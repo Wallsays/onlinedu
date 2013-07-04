@@ -43,6 +43,13 @@ A list of online education resources I collected over time such as university co
 - [Rubular](http://rubular.com/) - A Ruby regular expression editor
 - [Koding](https://koding.com/) - Real software development in the browser with a real VM and a real Terminal and free for everyone
 
+## Language training
+- [Busuu](http://www.busuu.com/) - 12 languages
+- [Livemocha](http://livemocha.com/) - 8 languages
+- [Lingualeo](http://lingualeo.com/) - Лучший способ изучить английский
+- [English Stackexchange](http://english.stackexchange.com/) - English Language & Usage Stack Exchange is a question and answer site for linguists, etymologists, and serious English language enthusiasts. It's 100% free, no registration required
+- [Online Grammar Checker](http://www.gingersoftware.com/) - The world's #1 grammar checker - Avoid embarrassing mistakes
+
 ##Misc
 - [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
 - [ProjectEuler](http://projecteuler.net/problems) - Math trainee
