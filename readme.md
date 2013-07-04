@@ -16,6 +16,15 @@ A list of online education resources I collected over time such as university co
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 - [LearnStreet](http://www.learnstreet.com/) - Start learning the fundamentals in our JavaScript, Ruby and Python courses
 - [hasbrains](http://hasbrains.ru/) - Screencasts about Ruby, Android, Autocad, Java, Rails, Vim, Javascript, Linux
+- [Thenewboston](http://thenewboston.org/tutorials.php) - Screencasts on diffents computer fields
+
+#### Ruby
+- [Ruby tutsplus course](http://net.tutsplus.com/sessions/ruby-for-newbies/) - Ruby for Newbies
+- [Ruby Kickstart](http://ruby-kickstart.com/)
+- [RubyStudyhall](http://www.rubystudyhall.com/) - A live Ruby screencast to help beginning and intermediate-level programmers
+- [Rubylearning](http://rubylearning.com/) - Helping Ruby Programmers become Awesome
+- [Ruby on ShowMeDo](http://showmedo.com/videotutorials/ruby) - Ruby Videos, Tutorials and Screencasts including Rails
+
 
 #### Java
 - [java2s](http://www.java2s.com/) - Programming tutorials and source code examples
@@ -38,6 +47,7 @@ A list of online education resources I collected over time such as university co
 - [UniverTV](http://univertv.ru/)
 
 ## Online programming
+- [Compileonline](http://www.compileonline.com/) - Over 60+ languages and technologies
 - [Compilr](https://compilr.com/) - An online development environment for programming which supports C#, C++, XNA, Ruby, PHP, Python, HTML, JavaScript, Node.js, Fortran, Visual Basic, Java and more
 - [Repl.It](http://repl.it/) - Ruby, Python, Javascript, CoffeeScrip, Scheme, Brainfuck, qBasic and many others languages
 - [Rubular](http://rubular.com/) - A Ruby regular expression editor
@@ -52,7 +62,10 @@ A list of online education resources I collected over time such as university co
 
 ##Misc
 - [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
-- [ProjectEuler](http://projecteuler.net/problems) - Math trainee
+
+#### Problems & Puzzles
+- [ProjectEuler](http://projecteuler.net/problems) - A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve
+- [PuzzleNode](http://www.puzzlenode.com/) - A site for coders who enjoy to work on challenging problems
 
 #### Sport programming
 - [Top Coder](http://www.topcoder.com/)
