@@ -25,14 +25,13 @@ A list of online education resources I collected over time such as university co
 - [Rubylearning](http://rubylearning.com/) - Helping Ruby Programmers become Awesome
 - [Ruby on ShowMeDo](http://showmedo.com/videotutorials/ruby) - Ruby Videos, Tutorials and Screencasts including Rails
 
-
 #### Java
 - [java2s](http://www.java2s.com/) - Programming tutorials and source code examples
 - [Wicket Tutorial](http://tomaszdziurko.pl/2011/01/wicket-tutorial-part-1-setting-up-project-with-spring-3-jpa-2-and-mysql/) - Wicket Tutorial with Spring 3, JPA 2 and MySQL
 - [${coreservlets.com}](http://www.coreservlets.com/) - J2EE training
 - [Comparing JVM Web Frameworks](http://www.slideshare.net/mraible/comparing-jvm-web-frameworks#btnNext) - Devoxx 2010
 
-####Android
+#### Android
 - [Android App Develop by Google](http://developer.android.com/training/index.html) 
 - [Android Development Tutorial](http://www.vogella.com/articles/Android/article.html) - Based on Android 4.2 
 
@@ -77,6 +76,10 @@ A list of online education resources I collected over time such as university co
 - [Elance](https://www.elance.com/)
 - [Freelancer](http://www.freelancer.com/)
 
+#### Project Management
+- [Scrum: Agile For Everyone](http://www.slideshare.net/jaaronfarr/scrum-agile-for-everyone) - Presentation about Scrum by Apache team
+- [Scrum: The Story of an Agile Team](http://net.tutsplus.com/articles/editorials/scrum-the-story-of-an-agile-team/) -  Advanced Tutorial
+
 #### Certification
 - [jchq](http://www.jchq.net/mockexams/exam1.htm) - Java Programmer Certification Mock Exam No 1 
 
@@ -84,6 +87,7 @@ A list of online education resources I collected over time such as university co
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
 - [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
+- [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [StackOverflow](http://stackoverflow.com/) -  Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
 - [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
