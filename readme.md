@@ -46,9 +46,11 @@ A list of online education resources I collected over time such as university co
 - [UniverTV](http://univertv.ru/)
 
 ## Online programming
+- [ideone](http://ideone.com/)
 - [Compileonline](http://www.compileonline.com/) - Over 60+ languages and technologies
 - [Compilr](https://compilr.com/) - An online development environment for programming which supports C#, C++, XNA, Ruby, PHP, Python, HTML, JavaScript, Node.js, Fortran, Visual Basic, Java and more
 - [Repl.It](http://repl.it/) - Ruby, Python, Javascript, CoffeeScrip, Scheme, Brainfuck, qBasic and many others languages
+- [Rexter](http://rextester.com/) - Some online tools for anyone who finds them useful
 - [Rubular](http://rubular.com/) - A Ruby regular expression editor
 - [Koding](https://koding.com/) - Real software development in the browser with a real VM and a real Terminal and free for everyone
 
