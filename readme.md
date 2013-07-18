@@ -87,6 +87,7 @@ A list of online education resources I collected over time such as university co
 
 ##Other
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
+- [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A FREE TUTS+ PREMIUM COURSE
 - [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
