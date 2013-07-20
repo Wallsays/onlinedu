@@ -91,6 +91,7 @@ A list of online education resources I collected over time such as university co
 - [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
+- [Useful twitter bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/)
 - [StackOverflow](http://stackoverflow.com/) -  Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
 - [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
