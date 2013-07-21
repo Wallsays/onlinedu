@@ -35,6 +35,16 @@ A list of online education resources I collected over time such as university co
 - [Android App Develop by Google](http://developer.android.com/training/index.html) 
 - [Android Development Tutorial](http://www.vogella.com/articles/Android/article.html) - Based on Android 4.2 
 
+#### JavaScript
+- [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A free Tut+ Premium course
+- [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
+- [Let’s Learn Ember](http://freecourses.tutsplus.com/lets-learn-ember/) - A free Tut+ Premium course
+
+#### Frontend
+- [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
+- [Useful twitter bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/)
+
 ## Universities Courses
 - [Coursera](https://www.coursera.org/) - Take the world's best courses, online, for free.
 - [edX](https://www.edx.org/) - Take greate courses from the world's best universities.
@@ -62,7 +72,6 @@ A list of online education resources I collected over time such as university co
 - [Online Grammar Checker](http://www.gingersoftware.com/) - The world's #1 grammar checker - Avoid embarrassing mistakes
 
 ##Misc
-- [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
 
 #### Problems & Puzzles
 - [ProjectEuler](http://projecteuler.net/problems) - A series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve
@@ -72,6 +81,7 @@ A list of online education resources I collected over time such as university co
 - [Top Coder](http://www.topcoder.com/)
 - [ACM](http://www.acm.org/)
 - [Codeforces](http://codeforces.ru/)
+- [FightCode](http://fightcodegame.com/) - A robot programmed by you fighting with other's players robots
 
 #### Freelance (test your skills)
 - [oDesk](http://www.oDesk.com/)
@@ -86,12 +96,8 @@ A list of online education resources I collected over time such as university co
 - [jchq](http://www.jchq.net/mockexams/exam1.htm) - Java Programmer Certification Mock Exam No 1 
 
 ##Other
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) - An article by Peter Norvig
 - [CoderBits](https://coderbits.com/dddenis) - Build factual up-to-date portfolio from sites you use to showcase your skills, expertise, traits, code, designs, education, and more.
-- [30 Days to Learn jQuery](http://freecourses.tutsplus.com/30-days-to-learn-jquery/index.html) - A FREE TUTS+ PREMIUM COURSE
-- [Frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for front end developers
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
-- [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
-- [Useful twitter bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/)
-- [StackOverflow](http://stackoverflow.com/) -  Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
+- [StackOverflow](http://stackoverflow.com/) - Question and answer site for professional and enthusiast programmers. It's 100% free, no registration required. 
 - [Lumosity](https://www.lumosity.com/login) - Brain trainee
 - [TED Top-20](http://blog.ted.com/2012/08/21/the-20-most-watched-ted-talks-to-date/) - The 20 most-watched TED Talks to date
