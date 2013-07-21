@@ -45,6 +45,9 @@ A list of online education resources I collected over time such as university co
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources collected over time
 - [Useful twitter bootstrap resources](http://bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/)
 
+#### More
+- [Node.js Backend Development](https://gist.github.com/dypsilon/5819528) - Backend Engineering Bookmarks for Node.js
+
 ## Universities Courses
 - [Coursera](https://www.coursera.org/) - Take the world's best courses, online, for free.
 - [edX](https://www.edx.org/) - Take greate courses from the world's best universities.
