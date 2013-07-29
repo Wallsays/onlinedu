@@ -72,7 +72,7 @@ A list of online education resources I collected over time such as university co
 - [Livemocha](http://livemocha.com/) - 8 languages
 - [Lingualeo](http://lingualeo.com/) - Лучший способ изучить английский
 - [English Stackexchange](http://english.stackexchange.com/) - English Language & Usage Stack Exchange is a question and answer site for linguists, etymologists, and serious English language enthusiasts. It's 100% free, no registration required
-- [Online Grammar Checker](http://www.gingersoftware.com/) - The world's #1 grammar checker - Avoid embarrassing mistakes
+- [Online Grammar Checker](http://www.gingersoftware.com/grammarcheck) - Grammar checker for english language
 
 ##Misc
 
